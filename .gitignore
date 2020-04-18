@@ -12,3 +12,10 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# local folder #
+######################
+backend/src/__pycache__/
+backend/env/
+frontend/env/
+frontend/node_modules/
